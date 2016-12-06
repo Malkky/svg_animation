@@ -367,7 +367,7 @@ a:active {
 	width: 150px;
 	position: relative;
 	bottom: 39px;
-	top: 25px;
+	top: 22px;
   left: 166px;
 }
 
@@ -735,6 +735,8 @@ a:active {
    .image{
     margin: 0;
     height: 4000px;
+    display: flex; 
+    justify-content: center;
    }
 }
 
